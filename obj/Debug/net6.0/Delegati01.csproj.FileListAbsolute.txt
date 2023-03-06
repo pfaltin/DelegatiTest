@@ -1,0 +1,15 @@
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\bin\Debug\net6.0\Delegati01.exe
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\bin\Debug\net6.0\Delegati01.deps.json
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\bin\Debug\net6.0\Delegati01.runtimeconfig.json
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\bin\Debug\net6.0\Delegati01.dll
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\bin\Debug\net6.0\Delegati01.pdb
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.csproj.AssemblyReference.cache
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.AssemblyInfoInputs.cache
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.AssemblyInfo.cs
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.csproj.CoreCompileInputs.cache
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.dll
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\refint\Delegati01.dll
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.pdb
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\Delegati01.genruntimeconfig.cache
+C:\Users\petar.faltin\source\repos\DelegatiTest01\Delegati01\obj\Debug\net6.0\ref\Delegati01.dll
